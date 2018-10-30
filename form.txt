@@ -1,0 +1,38 @@
+<!--- Two Column Section -->
+<form method="post">
+<div class="container-fluid padding">
+<div class="row padding">
+	<div class="col-md-12 col-lg-6">
+		<h2>Please Tell Us What You Ate Today! </h2>
+		<p> .</p>
+		<div class="form-group">
+    <label for="exampleFormControlInput1">Item 1</label>
+    <input type="text" class="form-control" id="Item1" placeholder="Enter Food or Drink ">
+    <label for="exampleFormControlInput1">Item 2</label>
+    <input type="text" class="form-control" id="Item2" placeholder="Enter Food or Drink">
+    <label for="exampleFormControlInput1">Item 3</label>
+    <input type="text" class="form-control" id="Item3" placeholder="Enter Food or Drink">
+    <label for="exampleFormControlInput1">Item 4</label>
+    <input type="text" class="form-control" id="Item4" placeholder="Enter Food or Drink">
+    <label for="exampleFormControlInput1">Item 5</label>
+    <input type="text" class="form-control" id="Item5" placeholder="Enter Food or Drink">
+    <input type="submit" name="submit" value="Submit" class="btn btn-success btn-block btn-lg">
+
+
+
+  </div>
+
+
+
+
+		<br>
+		
+
+	<div class="col-lg-6">
+		<img src="img/placeholder.png" class="img-fluid">
+	</div>
+
+</div>
+</div>
+</form>
+<hr class="my-4">
